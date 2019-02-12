@@ -1,6 +1,6 @@
 # Physical Oceanography
 
-The book is readable on https://physical-oceanography-book.readthedocs.io/en/latest/#
+The book is readable on 
 
 This project is meant to be a collection of notes on physical oceanography.
 
