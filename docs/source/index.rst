@@ -11,3 +11,5 @@ ________
    :maxdepth: 2
    
    introduction
+   thermodynamics
+   primitive_equations
