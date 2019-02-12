@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'physical_oceanography_book'
+project = 'POB'
 copyright = '2019, Dhruv Balwada'
 author = 'Dhruv Balwada'
 
