@@ -13,4 +13,6 @@ ________
    introduction
    thermodynamics
    primitive_equations
+   ocean_obs
    howto
+   
