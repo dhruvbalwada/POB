@@ -8,6 +8,8 @@ http://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
 
 Similar to LATEX there are syntax for everything, and then it autoformats.
 
+You can online tools like : http://socrates.io/ to write up your rst files and make sure they look correct in real time.
+
 
 Since we are interested in writing math often. 
 
