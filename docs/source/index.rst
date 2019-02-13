@@ -6,7 +6,8 @@ This is a collection of notes on physical oceanography that are meant to be edit
 We imagine this to be a collection of notes that can be used for self-study or helpful in classroom teaching. 
 
 Why these notes when numerous books are available? 
-  We imagine the answer to this being the same as why did wikipedia gain popularity, when encyclopedias were being printed? 
+  We imagine the answer to this being the same as why wikipedia, when encyclopedias were being printed? 
+  
   We think that there are a lot of great books on oceanography and dynamics, each having its strengths and weaknesses. Hopefully this forum would bring the strengths from all the books together in one place. 
   Also being present as a webresource we could add in interactive examples, which the readers could interact with and learn by doing.
   
