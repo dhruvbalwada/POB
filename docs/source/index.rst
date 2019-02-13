@@ -13,3 +13,4 @@ ________
    introduction
    thermodynamics
    primitive_equations
+   howto
