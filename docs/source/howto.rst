@@ -22,3 +22,5 @@ which becomes,
    2 + 2 = 5 \sigma
    
 or somethimes if we want to write inline equation, we use ``:math:`\frac{3}{4}`` to write :math:`\frac{3}{4}`.
+
+You can also use the tex syntax as you would normally do for equations.
