@@ -24,5 +24,6 @@ ________
    thermodynamics
    primitive_equations
    ocean_obs
+   book_list
    howto
   
