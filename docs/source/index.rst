@@ -1,7 +1,7 @@
 Physical Oceanography
 ======================================================
 
-This is a collection of notes on physical oceanography that are meant to be editted by its readers, and develop into a resource for the community. 
+This is a collection of notes on physical oceanography that are meant to be edited by its readers, and develop into a resource for the community. 
 
 We imagine this to be a collection of notes that can be used for self-study or helpful in classroom teaching. 
 
