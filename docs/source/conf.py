@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'POB'
-copyright = '2019, Dhruv Balwada'
+copyright = '2019, Physical Oceanographers'
 author = 'Dhruv Balwada'
 
 # The short X.Y version
