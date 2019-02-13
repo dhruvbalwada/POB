@@ -12,10 +12,11 @@ Similar to LATEX there are syntax for everything, and then it autoformats.
 Since we are interested in writing math often. 
 
 We can write an equation by just writing,::
-   .. math::
-   2 + 2 = 5
+   ``.. math::``
+   ``2 + 2 = 5``
 which becomes,
+
 .. math::
-   2 + 2 = 5
+   2 + 2 = 5 \sigma
    
 or somethimes if we want to write inline equation, we use ``:math:`\frac{3}{4}`` to write :math:`\frac{3}{4}`.
