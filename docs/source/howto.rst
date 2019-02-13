@@ -11,7 +11,7 @@ Similar to LATEX there are syntax for everything, and then it autoformats.
 
 Since we are interested in writing math often. 
 
-We can write an equation by just writing,::
+We can write an equation by just writing,
    ``.. math::``
    ``2 + 2 = 5``
 which becomes,
