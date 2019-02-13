@@ -1,10 +1,10 @@
 # Physical Oceanography
 
-The book is readable on 
+The book is readable on https://pob.readthedocs.io
 
 This project is meant to be a collection of notes on physical oceanography.
 
-For now the project will start by writing notes that are being taught at NYU by Dr. Shafer Smith (https://cims.nyu.edu/~shafer/papers/index.html).
+In the beginning the project started by using notes that were taught at NYU by Dr. Shafer Smith (https://cims.nyu.edu/~shafer/papers/index.html).
 
 The longterm motivation of the project is to build a resource (like an online book) for oceanographers to refer to when they want to. This should include a collection of notes on theory, worked out examples, observational analysis, references to suitable papers etc. 
 
